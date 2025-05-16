@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
