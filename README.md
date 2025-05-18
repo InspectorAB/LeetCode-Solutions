@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0572-subtree-of-another-tree](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
