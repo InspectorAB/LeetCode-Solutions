@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
