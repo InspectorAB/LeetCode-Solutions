@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Greedy
 |  |
 | ------- |
