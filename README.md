@@ -120,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
