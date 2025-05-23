@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3429-special-array-i](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
