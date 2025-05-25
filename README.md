@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search Tree
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Backtracking
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
