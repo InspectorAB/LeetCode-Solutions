@@ -10,8 +10,6 @@ public class Solution {
                 num2 = num2 + i;
             }
         }
-        Console.WriteLine(num1);
-        Console.WriteLine(num2);
         return num2 - num1;
     }
 }
