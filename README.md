@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Backtracking
 |  |
