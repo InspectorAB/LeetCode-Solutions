@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0572-subtree-of-another-tree](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [3194-find-words-containing-character](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Binary Tree
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
