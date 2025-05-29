@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0198-house-robber) |
 ## Memoization
