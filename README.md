@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
