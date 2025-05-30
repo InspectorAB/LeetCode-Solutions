@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [3194-find-words-containing-character](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Binary Tree
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
