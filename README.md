@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0890-lemonade-change](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [3194-find-words-containing-character](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/3429-special-array-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0890-lemonade-change](https://github.com/InspectorAB/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
